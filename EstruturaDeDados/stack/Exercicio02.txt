@@ -1,0 +1,33 @@
+02 - Suponha que uma pilha possua 4 valores na seguinte ordem: 1, 2, 3 e 4. Qual seria a
+sequencia correta de operações de inserção (push) e eliminação (pop) para se obter os
+registros na ordem 2 4 3 1?
+
+----- RESPOSTA -----
+
+A sequência correta seria:
+
+-------------------------------------------
+1º - pop() (elimina o elemento 4)
+Pilha: 1, 2, 3
+-------------------------------------------
+2º - pop() (elimina o elemento 3)
+Pilha: 1, 2
+-------------------------------------------
+3º - pop() (elimina o elemento 2)
+Pilha: 1
+-------------------------------------------
+4º - pop() (elimina o elemento 1)
+Pilha: Ø
+-------------------------------------------
+5º - push(2) (insere o elemento 2)
+Pilha: 2
+-------------------------------------------
+6º - push(4) (insere o elemento 4)
+Pilha: 2, 4
+-------------------------------------------
+7º - push(3) (insere o elemento 3)
+Pilha: 2, 4, 3
+-------------------------------------------
+8º - push(1) (insere o elemento 1)
+Pilha: 2, 4, 3, 1
+-------------------------------------------

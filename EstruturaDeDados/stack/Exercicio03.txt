@@ -1,0 +1,15 @@
+03 - Explique o funcionamento de uma pilha. Dê um exemplo, onde a pilha pode ser utilizada
+
+----- RESPOSTA -----
+
+A pilha é uma estrutura de dados que funciona guardando vários elementos em sua estrutura. A cada elemento adicionado na pilha, os elementos anteriores são "empurrados" para trás e esse novo elemento inserido é colocado na frente (topo) da pilha; desse modo, o primeiro valor inserido na pilha fica no final final e o último a ser inserido fica no topo/começo - Last In, First Out.
+
+Na pilha, só é possível visualizar, acessar e/ou manipular o valor que está no topo da pilha, sendo necessário desempilhar (remover o topo), quantas vezes forem necessárias, para conseguir acessar um elemento que esteja mais abaixo na estrutura. Os métodos básicos e fundamentais da pilha são o push (inserir, ao topo, um elemento passado por parâmetro) e o pop (remover e retornar o elemento que se encontra no topo da pilha).
+
+Exemplos do uso de pilha:
+
+- As linguagens de programação fazem uso da pilha para organizar a ordem de execução de funções, procedimentos, etc.
+
+- Os navegadores podem registrar o histórico de navegação através do uso de pilhas (ao clicar em um link, ele é colocado no topo para ser visualizado; ao apertar no botão de voltar, esse link atual é desempilhado e o anterior se torna o topo, sendo o que você conseguirá visualizar no momento).
+
+- Em diversos editores, as alterações feitas a um arquivo podem ser salvas em uma pilha. Ao desfazer uma alteração (Ctrl + Z), essa última alteração é desfeita (desempilhada) e a alteração anterior se torna a atual (topo).

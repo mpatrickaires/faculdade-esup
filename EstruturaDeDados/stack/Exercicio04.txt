@@ -1,0 +1,24 @@
+04 - Suponha que uma pilha possua 4 valores na seguinte ordem: 1, 2, 3 e 4. Explique o
+processo de inserir e remover um elemento na pilha, apresente o passo a passo
+
+----- RESPOSTA -----
+
+No processo de inserção de um elemento, o método 'push' coleta um valor como parâmetro e o insere no topo da pilha, enquanto os demais valores ficam para trás.
+
+Já na remoção de um elemento, o método 'pop' não coleta nenhum valor como parâmentro, ele simplesmente busca o valor que se encontra no topo e o remove e retorna. O método 'pop' não tem acesso a nenhum outro elemento dentro da pilha que não seja o que se encontra no topo.
+
+No exemplo da pilha com os valores 1, 2, 3 e 4 nessa ordem, considerando que a pilha estivesse vazia, o processo para deixá-la com esses mesmo valores nessa mesma ordem seria:
+
+----------------------------------------------
+1º - push(1) (insere o elemento 1)
+Pilha: 1
+----------------------------------------------
+2º - push(2) (insere o elemento 2)
+Pilha: 1, 2
+----------------------------------------------
+3º - push(3) (insere o elemento 3)
+Pilha: 1, 2, 3
+----------------------------------------------
+4º - push(4) (insere o elemento 4)
+Pilha: 1, 2, 3, 4
+----------------------------------------------
