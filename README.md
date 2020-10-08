@@ -1,7 +1,6 @@
 # Faculdade ESUP - Sistemas de Informação
 ---
 ## Olá! Bem-vindo(a) ao meu repositório.
-![octocat-code](https://octodex.github.com/baracktocat/)
 Neste repositório estarão os arquivos de alguns códigos que fiz durante o meu curso de **Sistemas de Informação** na **Faculdade ESUP.**
 Sinta-se a vontade para acessar e utilizar os meus códigos, além de sugerir qualquer alteração interessante!
 
