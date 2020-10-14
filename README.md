@@ -2,7 +2,7 @@
 ---
 ## Olá! Bem-vindo(a) ao meu repositório.
 Neste repositório estarão os arquivos de alguns códigos que fiz durante o meu curso de **Sistemas de Informação** na **Faculdade ESUP.**
-Sinta-se a vontade para acessar e utilizar os meus códigos, além de sugerir qualquer alteração interessante!
+Você pode livremente acessar e utilizar os meus códigos, além de sugerir qualquer alteração interessante!
 
 ### Confira alguns dos materiais que já montei:
 * [Estrutura de Dados](https://github.com/mpatrickaires/faculdade-esup/tree/main/EstruturaDeDados)
@@ -18,7 +18,7 @@ Sinta-se a vontade para acessar e utilizar os meus códigos, além de sugerir qu
    
 Esse repositório ainda será atualizado com conteúdos novos, por isso fique à vontade para marcar uma **Star**, **Watch** e/ou dar **Clone** para acompanhar os novos materiais!
 
-Agradeço por ter acessado o meu perfil e, principalmente, o meu repositório.
+Agradeço por ter acessado o meu perfil e, principalmente, o meu repositório!
 
 
 *Att.*
