@@ -1,6 +1,8 @@
 # Faculdade ESUP - Sistemas de Informação
 ---
 ## Olá! Bem-vindo(a) ao meu repositório.
+<img align="right" src="https://octodex.github.com/images/Professortocat_v2.png" width="250">
+
 Neste repositório estarão os arquivos de alguns códigos que fiz durante o meu curso de **Sistemas de Informação** na **Faculdade ESUP.**
 Você pode livremente acessar e utilizar os meus códigos, além de sugerir qualquer alteração interessante!
 
@@ -16,7 +18,7 @@ Você pode livremente acessar e utilizar os meus códigos, além de sugerir qual
    * [Exercícios de Revisão de Algoritmos](https://github.com/mpatrickaires/faculdade-esup/tree/main/LinguagemDePrograma%C3%A7%C3%A3o/Lista%20de%20Exerc%C3%ADcios%2001)
    * [Prova P1](https://github.com/mpatrickaires/faculdade-esup/tree/main/LinguagemDePrograma%C3%A7%C3%A3o/Prova%20P1)
    
-Esse repositório ainda será atualizado com conteúdos novos, por isso fique à vontade para marcar uma **Star**, **Watch** e/ou dar **Clone** para acompanhar os novos materiais!
+Esse repositório ainda será atualizado com conteúdos novos, por isso para acompanhe constantemente para visualizar os novos materiais!
 
 Agradeço por ter acessado o meu perfil e, principalmente, o meu repositório!
 
