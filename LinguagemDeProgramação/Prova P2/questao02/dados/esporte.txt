@@ -1,0 +1,2 @@
+Ford;Mustang;MUS-123;Vermelho;Automático;2;Ar Condicionado/Vidro Elétrico/Retrovisor Elétrico/Direção Hidraúlica;Gasolina;3000.0;10;2;false;250;4.3;466
+Lamborghini;Gallardo;GAL-123;Laranja;Automático;2;Ar Condicionado/Vidro Elétrico/Retrovisor Elétrico/Direção Hidraúlica;Gasolina;3800.0;6;2;false;318;4.2;560

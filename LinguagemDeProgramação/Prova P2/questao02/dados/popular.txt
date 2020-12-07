@@ -1,0 +1,2 @@
+Fiat;Uno;123-UNO;Azul;Manual;4;Ar Condicionado/Vidro Elétrico/Retrovisor Elétrico/Direção Manual;Gasolina;250.0;5;5;false;Aro de Ferro
+Chevrolet;Prisma;PRI-123;Branco;Automático;4;Ar Condicionado/Vidro Elétrico/Retrovisor Elétrico/Direção Manual;Gasolina;289.0;5;5;false;Liga Leve
